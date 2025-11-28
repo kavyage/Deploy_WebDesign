@@ -1,8 +1,8 @@
-# Deploy_WebDesign
+# Quick steps to build and deploy webdesign
 
 # Design Tools:
     ## Code - HTML/CSS/JS
-    ## NOCode using AI tools - openai chatgpt, google services, figma, canva
+    ## NOCode using AI tools with prompt - openai chatgpt, google services, figma, canva
 
 # Deploy Tools:
     ## GIT:
